@@ -1,8 +1,5 @@
-count = 0
-
-while count < 10:
+for i in range(2 ** 2):
     
-print(count)
-   
-print("Hello world !!")
-count += 1  # This is the same as count = count + 1
+print('Hello, world!')
+    
+print('Hello, world, Nitin')
