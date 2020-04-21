@@ -1,5 +1,2 @@
-for i in range(2 ** 2):
-    
-print('Hello, world!')
-    
-print('Hello, world, Nitin')
+for i in range(1, 10):
+    print i
